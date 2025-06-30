@@ -1,13 +1,8 @@
 ## 👋 Hi, I'm Jenifer!
-🎓 2nd Year BCA student from SRM RAMAPURAM
+🎓 2nd Year BCA student at SRM RAMAPURAM
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on Open-source beginner ML projects, Java apps, or Go backend tools!
 - ⚡ Fun fact: ...
 -->
 
@@ -34,9 +29,10 @@ Currently diving deeper into:
 - 🤖 **Spam Classifier** – Python, Scikit-learn, Streamlit-based UI
 - 🏡 **House Price Predictor** – ML model using regression algorithms
 
-## 🌱 Looking to Collaborate On
-Open-source beginner ML projects, Java apps, or Go backend tools!
 
+
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 ---
 
 ### 📬 Let's Connect

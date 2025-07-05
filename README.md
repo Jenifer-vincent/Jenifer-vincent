@@ -10,8 +10,6 @@
 <img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/go-logo.png" alt="go-logo"/>
 ---
 
-### 📬 Let's Connect
-- [LinkedIn](www.linkedin.com/in/jenifer-vincent-a51277326)  
 
 
-```
+

@@ -11,7 +11,7 @@
 ---
 
 ### 📬 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Portfolio (if available)](https://your-portfolio-link)  
+- [LinkedIn](www.linkedin.com/in/jenifer-vincent-a51277326)  
+
 
 ```

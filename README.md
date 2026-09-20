@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github banner.gif" width="100%" alt="Jenifer V - Developer Banner">
+  <img src="github_banner.gif" width="100%" alt="Jenifer V - Developer Banner">
 </p>
 
 <h1 align="center">Hi, I'm Jenifer V 👩🏻‍💻</h1>

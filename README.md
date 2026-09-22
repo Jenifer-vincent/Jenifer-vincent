@@ -65,7 +65,7 @@ Currently focused on building, learning and experimenting with **AI + software e
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
 ![Python Backend](https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-FF4B4B?style=for-the-badge&logo=swagger &logoColor=white)
+
 
 
 ### 🎨 Frontend
@@ -104,8 +104,7 @@ Currently focused on building, learning and experimenting with **AI + software e
 
 ## 🚀 Featured Projects
 
-### ⚖️ Nyaya AI
-
+### ⚖️ Nyaya
 **Problem:**  
 Indian court judgments and legal documents are often lengthy, technical and difficult for non-legal users to understand.
 
@@ -115,10 +114,8 @@ Nyaya AI is an AI-powered legal assistant that processes Indian court documents 
 **Key Features:**
 - 📄 PDF and legal document processing
 - 🔍 Document-based question answering
-- 🤖 AI-powered legal content simplification
 - 🌐 Multilingual explanation support
 - 🔊 Text-to-speech output
-- 💬 Conversational interaction with documents
 
 **Tech:** `Python` `FastAPI` `React` `AI/ML` `PDF Processing` `TTS`
 
@@ -133,15 +130,12 @@ Manually entering contact information from physical business cards is time-consu
 CardSync AI is an OCR-based business card management system that extracts contact information from physical and digital business cards, validates the extracted data and stores it in a structured format.
 
 **Key Features:**
-- 📸 Business card image scanning
-- 🔎 OCR-based text extraction
-- 🧹 Image preprocessing for better recognition
-- ✉️ Email and phone number detection
-- ✅ Extracted data validation
-- 👤 Contact management
-- 🔗 Integration-ready contact storage
+- 📸 Business card image scanning and ocr based text extraction
+- ✉️ Email and whatsapp sent 
+- 👤 CRM management and google sheets 
+- 🔗 instant prospect connection 
 
-**Tech:** `Python` `FastAPI` `OpenCV` `OCR` `PostgreSQL` `React`
+**Tech:** `Python` `FastAPI` `OpenCV` `OCR` `PostgreSQL` `AWS' 
 
 ---
 
@@ -156,10 +150,8 @@ This machine-learning research system uses historical gold-price data and time-s
 **Key Features:**
 - 📊 Historical gold-price analysis
 - 📈 Time-series forecasting
-- 🔮 Future gold-price prediction
 - 💰 Break-even timeline estimation
 - 📉 Forecast visualization
-- 📋 Research-oriented model evaluation
 
 **Tech:** `Python` `Machine Learning` `SARIMA` `Time-Series Analysis`
 

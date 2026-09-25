@@ -11,9 +11,7 @@
 <p align="center">
   Building practical software where <strong>AI meets real-world problems.</strong> ✦
 </p>
-
 <p align="center">
-  <a href="https://jenifer-vincent.vercel.app/">Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/jenifer-vincent/">LinkedIn</a>
   &nbsp;•&nbsp;

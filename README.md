@@ -185,6 +185,7 @@ Developing a multimodal AI approach for identifying missing persons by combining
 **Core Areas:**  
 `Multimodal AI` `Computer Vision` `Image Analysis` `Deep Learning` `Person Identification`
 
+**My contribution**
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

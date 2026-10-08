@@ -1,11 +1,8 @@
-on:
-  push:
-    branches:
-      - main
+name: Generate Contribution Snake
 
+on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -16,9 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,8 +21,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit generated snake
-        uses: EndBug/add-and-commit@v9
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          message: "chore: update contribution snake"
-          add: "dist/"
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

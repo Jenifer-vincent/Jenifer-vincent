@@ -32,4 +32,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
+         github_token: ${{ secrets.SNAKE_TOKEN }}

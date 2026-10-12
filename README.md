@@ -199,4 +199,4 @@ Developing a multimodal AI approach for identifying missing persons by combining
     src="https://raw.githubusercontent.com/Jenifer-vincent/Jenifer-vincent/output/github-snake.svg"
   />
 </picture>
-```
+

@@ -185,6 +185,7 @@ Developing a multimodal AI approach for identifying missing persons by combining
 **Core Areas:**  
 `Multimodal AI` `Computer Vision` `Image Analysis` `Deep Learning` `Person Identification`
 
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -195,8 +196,7 @@ Developing a multimodal AI approach for identifying missing persons by combining
     srcset="https://raw.githubusercontent.com/Jenifer-vincent/Jenifer-vincent/output/github-snake.svg"
   />
   <img
-    alt="GitHub contribution snake"
+    alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Jenifer-vincent/Jenifer-vincent/output/github-snake.svg"
   />
 </picture>
-
